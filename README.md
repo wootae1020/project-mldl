@@ -88,7 +88,7 @@
 ## 프로젝트 문서
 
 * [프로젝트 기획서](results/mldl_project_proposal.pdf)
-* [프로젝트 보고서](results/mldl_project_presentation.pdf)
+* [프레젠테이션](results/mldl_project_presentation.pdf)
 
 ---
 
